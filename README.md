@@ -18,7 +18,7 @@
 
 **do_plot**: 1 if want to visualize, else 0
 
-**linear_search**: 1 if turn on linear time search module, else 0
+**linear_search**: 1 if turn on the linear-complexity search module, else 0
 
 ### Environment:
 >CUDA                      11.3<br>
