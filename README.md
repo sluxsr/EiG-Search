@@ -34,3 +34,12 @@ pyg                       2.1.0<br>
 numpy                     1.26.3<br>
 ninja                     1.10.2              <br>
 networkx                  3.2.1<br>
+
+### Cite our paper: 
+>@inproceedings{<br>
+lu2024eig,<br>
+title={Ei{G}-{S}earch: Generating Edge-Induced Subgraphs for {GNN} Explanation in Linear Time},<br>
+author={Shengyao Lu and Bang Liu and Keith G Mills and Jiao He and Di Niu}, <br>
+booktitle={Forty-first International Conference on Machine Learning},<br>
+year={2024},<br>
+}
