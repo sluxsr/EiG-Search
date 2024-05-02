@@ -4,7 +4,7 @@
 ![image](docs/eig_figure1.png)
 
 ### Run Our Code:
-> $ python3 --dataset ba_2motifs --gnn gin --sparsity 0.7 --do_plot 0 --linear_search 1
+> $ python main.py --dataset ba_2motifs --gnn gin --sparsity 0.7 --do_plot 0 --linear_search 1
 
 **Graph classificiation dataset options**: ba_2motifs, Mutagenicity, MUTAG, NCI1
 
