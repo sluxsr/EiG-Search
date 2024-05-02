@@ -14,7 +14,7 @@
 
 **Sparsity range**: 0.0~1.0 (For graph classificiation)
 
-**Topk values**： even integers (For node classificiation)
+**Topk values**： even integers (For node classificiation) E.g., If you want to select top 6 undirected edges, enter 12. It means equivalently top 12 directed edges. 
 
 **do_plot**: 1 if want to visualize, else 0
 
